@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*.tsbuildinfo
+coverage/
+__pycache__/
+*.db
+*.sqlite3
+*.joblib
+*.pkl
